@@ -2,8 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "37B1133A4E8071F52953009366D8D438818C5930356161B70DB0723B1DFD7D27",
-      "size": 587
+      "checksum": "7F235EDAA3468D055DEDCDF4E5F33223559F6137E30CF4D4A4330BF02153A237",
+      "size": 570
     },
     "FASTN/ds.ftd": {
       "name": "FASTN/ds.ftd",
@@ -20,6 +20,46 @@
       "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
       "size": 21
     },
+    "_web_my-website/fastn-community.github.io_karma-font_assets": {
+      "name": "_web_my-website/fastn-community.github.io_karma-font_assets",
+      "checksum": "5ED9DEB56BB8ED1CA46A6C0C77E088A926B0192F26E0698B797097E332648D74",
+      "size": 332
+    },
+    "_web_my-website/fastn-community.github.io_lato-font_assets": {
+      "name": "_web_my-website/fastn-community.github.io_lato-font_assets",
+      "checksum": "84BE69ADDE1B1117C8D8DB5FA57A0303D2572E2B2A611013FBB9FDC83F27F871",
+      "size": 999
+    },
+    "_web_my-website/sarvom.github.io_my-website_": {
+      "name": "_web_my-website/sarvom.github.io_my-website_",
+      "checksum": "3E88A6FCFC2587D10A1F6A75BEA15A16B40F7516EB3430484C11B5401A6BC162",
+      "size": 3477
+    },
+    "_web_my-website/sarvom.github.io_my-website_assets": {
+      "name": "_web_my-website/sarvom.github.io_my-website_assets",
+      "checksum": "F0872ECA77A9BA1DFF06EEC65DA14479888FE824DEDC4BD3F4ABEB60C1819FD9",
+      "size": 323
+    },
+    "_web_my-website/sarvom.github.io_my-website_colors": {
+      "name": "_web_my-website/sarvom.github.io_my-website_colors",
+      "checksum": "F2CF1CD895A9A731B83FEEBA3D5B64455E2903092A093715B15C44DC180CCC71",
+      "size": 68020
+    },
+    "_web_my-website/sarvom.github.io_my-website_fonts": {
+      "name": "_web_my-website/sarvom.github.io_my-website_fonts",
+      "checksum": "6EFA24D6009DF5F1D310004E415B5352BAD33CAD9F5811E29D0ECE8BB3E10787",
+      "size": 58082
+    },
+    "_web_my-website/sarvom.github.io_my-website_lib": {
+      "name": "_web_my-website/sarvom.github.io_my-website_lib",
+      "checksum": "1131E644C2B930D45DA312F3FF869BA6F8EF66F30B0B0BA7FB764AC48E661170",
+      "size": 48217
+    },
+    "assets/cross-grey.png": {
+      "name": "assets/cross-grey.png",
+      "checksum": "E969FA0037D82778C941A40D72BC9D7A3F3B78C40C5F56670CDF18CF9BFCB262",
+      "size": 592
+    },
     "assets/ipsum-logo-dark.svg": {
       "name": "assets/ipsum-logo-dark.svg",
       "checksum": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
@@ -30,20 +70,40 @@
       "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
       "size": 15494
     },
+    "assets/logo.png": {
+      "name": "assets/logo.png",
+      "checksum": "0BA81DF20877129FBEDBB3483A9D70E6066D4FA56B9E6342BEF695B2A4622313",
+      "size": 3821
+    },
+    "assets/menu-grey.png": {
+      "name": "assets/menu-grey.png",
+      "checksum": "B930F1F12E509444FF097912FAB001A273352D76CF7D4AD94299B52F53B08096",
+      "size": 263
+    },
+    "colors.ftd": {
+      "name": "colors.ftd",
+      "checksum": "B681481D2CAF0177ADE6A44A2BB9307E0A57E0EEA64D16F62BB729343C68C782",
+      "size": 6982
+    },
     "favicon.ico": {
       "name": "favicon.ico",
       "checksum": "65056A1D6C6AAE6E3DC4626E29F4BD4B628B17A8E9CC1D3A5E8FE9F6743F306B",
       "size": 15406
     },
+    "fonts.ftd": {
+      "name": "fonts.ftd",
+      "checksum": "AD3445CAEFA28692CA59F3D1E49F3C44D7A151EB7F0188196519B7FE58D0860A",
+      "size": 6815
+    },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
+      "checksum": "023C46B256E2FF782C5ED72408D143615B342F265314187E73160B730B43D400",
+      "size": 387
     },
-    "sidebar.ftd": {
-      "name": "sidebar.ftd",
-      "checksum": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
-      "size": 1281
+    "lib.ftd": {
+      "name": "lib.ftd",
+      "checksum": "A2FD5F76F26EB1268DB711CF6BF0592D574E70D9D2CAD7BDF01EBF13B3F3A175",
+      "size": 7868
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -52,5 +112,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/sarvom/my-website/zip/refs/heads/main",
-  "checksum": "6760C9B00D5F1EFB3F2B3A24AB65424FBCAE17740EA5030991015C2E71DA4F1F"
+  "checksum": "767E3CBBF4316E9499E375E951AD6B7D4F12102358DA7B113E6FA34890296443"
 }

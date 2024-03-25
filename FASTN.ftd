@@ -7,13 +7,8 @@ favicon: /-/sarvom.github.io/my-website/favicon.ico
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: fastn-community.github.io/lato-font
 
 -- fastn.auto-import: sarvom.github.io/my-website/FASTN/ds
 -- fastn.auto-import: sarvom.github.io/my-website/assets
 -- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
