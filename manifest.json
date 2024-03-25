@@ -32,8 +32,8 @@
     },
     "_web_my-website/sarvom.github.io_my-website_": {
       "name": "_web_my-website/sarvom.github.io_my-website_",
-      "checksum": "3E88A6FCFC2587D10A1F6A75BEA15A16B40F7516EB3430484C11B5401A6BC162",
-      "size": 3477
+      "checksum": "8EAB97D278930AAC1630690D3BEB7F4603452E09C1BB3D4A77EC97EA908188A7",
+      "size": 3461
     },
     "_web_my-website/sarvom.github.io_my-website_assets": {
       "name": "_web_my-website/sarvom.github.io_my-website_assets",
@@ -42,8 +42,8 @@
     },
     "_web_my-website/sarvom.github.io_my-website_colors": {
       "name": "_web_my-website/sarvom.github.io_my-website_colors",
-      "checksum": "F2CF1CD895A9A731B83FEEBA3D5B64455E2903092A093715B15C44DC180CCC71",
-      "size": 68020
+      "checksum": "FA7E669994AE061F3ED4408AB236C805AEE0C2D0B0EA115A6450AC86BB2A82D8",
+      "size": 68019
     },
     "_web_my-website/sarvom.github.io_my-website_fonts": {
       "name": "_web_my-website/sarvom.github.io_my-website_fonts",
@@ -52,8 +52,18 @@
     },
     "_web_my-website/sarvom.github.io_my-website_lib": {
       "name": "_web_my-website/sarvom.github.io_my-website_lib",
-      "checksum": "1131E644C2B930D45DA312F3FF869BA6F8EF66F30B0B0BA7FB764AC48E661170",
-      "size": 48217
+      "checksum": "B260722BADE8B452B72B0320DFDC29498B84ED7978DC36088AEA21B3272108A4",
+      "size": 48438
+    },
+    "assets/MainAfter.avif": {
+      "name": "assets/MainAfter.avif",
+      "checksum": "D5227CB153F70E20DE9B4E1EF47336D504074E5847915528826F1B2E94304325",
+      "size": 65254
+    },
+    "assets/college.jpg": {
+      "name": "assets/college.jpg",
+      "checksum": "F1C6FD0982910A469126369E0DF081E3FEFEBD8FB006EEBA2E93E5594B2858AB",
+      "size": 524273
     },
     "assets/cross-grey.png": {
       "name": "assets/cross-grey.png",
@@ -82,8 +92,8 @@
     },
     "colors.ftd": {
       "name": "colors.ftd",
-      "checksum": "B681481D2CAF0177ADE6A44A2BB9307E0A57E0EEA64D16F62BB729343C68C782",
-      "size": 6982
+      "checksum": "320A64FFC7CA40B6516B6DFC4884688840123FF5758AC9AC1E18F396D8BA7AA3",
+      "size": 6981
     },
     "favicon.ico": {
       "name": "favicon.ico",
@@ -97,13 +107,13 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "023C46B256E2FF782C5ED72408D143615B342F265314187E73160B730B43D400",
-      "size": 387
+      "checksum": "69BC2EE342379393DF49CAAD1A52C0F112C25A94E865F8F5AC5D1E0AEF4CF4C4",
+      "size": 372
     },
     "lib.ftd": {
       "name": "lib.ftd",
-      "checksum": "A2FD5F76F26EB1268DB711CF6BF0592D574E70D9D2CAD7BDF01EBF13B3F3A175",
-      "size": 7868
+      "checksum": "EFC5DEFC87A91D32CF8BEB3E8AD92C0A2AC39016CE5A8894F4EA123A7E2BD83B",
+      "size": 7923
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -112,5 +122,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/sarvom/my-website/zip/refs/heads/main",
-  "checksum": "767E3CBBF4316E9499E375E951AD6B7D4F12102358DA7B113E6FA34890296443"
+  "checksum": "B391D9C406FD4EA43039EC4B595697843405CDBB0AD9FD8FC48A83A4BB4867FB"
 }

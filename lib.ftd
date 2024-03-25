@@ -8,6 +8,7 @@ children c:
 
 -- ftd.column:
 width: fill-container
+height: fill-container
 background.solid: $colors.base-
 
 	-- ftd.column:
@@ -331,8 +332,8 @@ sticky: true
 
 
 
--- component hero:
-string cover:
+-- component hero-1:
+ftd.image-src cover:
 caption title:
 string heading:
 body content:
@@ -350,16 +351,16 @@ id: home-1
 		width: fill-container
 		padding-horizontal.px: 20
 		
-			-- ftd.text: $hero.heading
+			-- ftd.text: $hero-1.heading
 			role: $fonts.heading-large
 			color: $colors.text-strong-
 			margin-bottom.px: 20
 			
-			-- ftd.text: $hero.title
+			-- ftd.text: $hero-1.title
 			role: $fonts.heading-hero
 			color: $colors.accent-primary-
 			
-			-- ftd.text: $hero.content
+			-- ftd.text: $hero-1.content
 			role: $fonts.copy-regular
 			color: $colors.text-
 			margin-vertical.px: 24
@@ -372,7 +373,7 @@ id: home-1
 		padding-horizontal.px: 20
 		
 			-- ftd.image:
-			src: $hero.cover
+			src: $hero-1.cover
 			width.fixed.percent: 90
 			align-self: center
 			fit: contain
@@ -389,20 +390,34 @@ id: home-1
 	
 		-- ftd.column:
 		width.fixed.percent: 40
-		align-self: center
+		height.fixed.px: 360
+		align-content: center
 		margin-right.px: 24
 		
-			-- ftd.text: $hero.heading
+			-- ftd.image:
+			src: $hero-1.cover
+			width: fill-container
+			height: fill-container
+			fit: contain
+			
+		-- end: ftd.column
+
+		-- ftd.column:
+		width.fixed.percent: 40
+		align-self: center
+		
+		
+			-- ftd.text: $hero-1.title
+			role: $fonts.heading-hero
+			color: $colors.accent-primary-
+			
+			-- ftd.text: $hero-1.heading
 			role: $fonts.heading-large
 			color: $colors.text-strong-
 			margin-right.px: 100
 			margin-bottom.px: 20
 			
-			-- ftd.text: $hero.title
-			role: $fonts.heading-hero
-			color: $colors.accent-primary-
-			
-			-- ftd.text: $hero.content
+			-- ftd.text: $hero-1.content
 			margin-top.px: 24
 			margin-bottom.px: 32
 			role: $fonts.copy-large
@@ -410,21 +425,10 @@ id: home-1
 			
 		-- end: ftd.column
 
-		-- ftd.column:
-		width.fixed.percent: 40
-		height.fixed.px: 360
-		align-content: center
-		
-			-- ftd.image:
-			src: $hero.cover
-			width: fill-container
-			height: fill-container
-			fit: contain
-			
-		-- end: ftd.column
+
 
 	-- end: ftd.row
 
 -- end: ftd.column
 
--- end: hero
+-- end: hero-1

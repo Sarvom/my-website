@@ -1,6 +1,5 @@
 -- import: sarvom.github.io/my-website/lib
 
-
 -- lib.page:
 
 -- lib.navbar:
@@ -12,10 +11,10 @@ cta-text-4: Contact Us
 cta-text-5: Dashboard
 cta-button-1: Button
 
--- lib.hero: Hero
-heading: Hero
-cover: https://www.shutterstock.com/image-photo/super-wide-panorama-new-york-260nw-525241378.jpg
+-- lib.hero-1: Web Development
+heading: Welcome to World of
+cover: $assets.files.assets.college.jpg
 
-Hero
+Learn fastn Now!!!!
 
 -- end: lib.page
